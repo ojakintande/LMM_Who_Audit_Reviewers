@@ -32,7 +32,11 @@ To run the analysis:
 
 OPENROUTER_API_KEY='your-api-key-here'
 
-Execution: Run the scripts in order: 01_retrieval.R $\rightarrow$ 02_generate.R $\rightarrow$ 03_evaluation.R $\rightarrow$ 04_analysis.R.5. Ethics and TransparencyThis research does not involve human subjects or proprietary data. All generated outputs were created in a controlled academic environment, and results are presented as aggregated, anonymized metrics.6. CitationIf you use this framework or dataset in your research, please cite our manuscript. 
+Execution: Run the scripts in order: 01_retrieval.R $\rightarrow$ 02_generate.R $\rightarrow$ 03_evaluation.R $\rightarrow$ 04_analysis.
+
+R.5. Ethics and TransparencyThis research does not involve human subjects or proprietary data. All generated outputs were created in a controlled academic environment, and results are presented as aggregated, anonymized metrics.
+
+6. CitationIf you use this framework or dataset in your research, please cite our manuscript. 
 
 License
 
