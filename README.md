@@ -1,4 +1,4 @@
-# LMM_Who_Audit_Reviewers
+# LLM_Who_Audit_Reviewers
 Who Audits the Reviewers? A Multi-Model Consensus Framework for Characterizing Failures in LLM-Assisted Peer Review
 
 Automated Multi-Judge Framework for Characterizing Failures in LLM-Assisted Peer ReviewThis repository contains the full experimental pipeline, analysis scripts, and anonymized datasets for the study titled: "Who Audits the Reviewers? 
