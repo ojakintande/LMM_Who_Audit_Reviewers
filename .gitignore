@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.env
+.DS_Store
+__pycache__/
+*.pdf
+.Rproj.user/
